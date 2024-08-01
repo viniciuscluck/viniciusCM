@@ -3,4 +3,4 @@ Meu nome é Vinicius Cluck Mendonça
 Estou estudando no Alura
 Estou desenvolvendo a linguagem JavaScript
 Uso este espaço para organizar meus projetos
-![https://tenor.com/pt-BR/view/petty-parker-smoke-snoop-dogg-homer-simpson-disappear-gif-17093677]
+![Petty Parker Smoke GIF]!(https://media1.tenor.com/m/rYCdWzuqXIIAAAAC/petty-parker-smoke.gif)
